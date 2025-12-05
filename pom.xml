@@ -4,7 +4,7 @@
 
     <groupId>com.drtshock</groupId>
     <artifactId>PlayerVaultsX</artifactId>
-    <version>4.4.4</version>
+    <version>4.4.8</version>
     <name>PlayerVaultsX</name>
     <url>https://www.spigotmc.org/resources/51204/</url>
 
@@ -122,7 +122,7 @@
         <dependency>
             <groupId>net.kyori</groupId>
             <artifactId>adventure-text-serializer-gson</artifactId>
-            <version>4.21.0</version>
+            <version>4.25.0</version>
             <scope>compile</scope>
             <optional>true</optional>
             <exclusions>
@@ -147,7 +147,7 @@
         <dependency>
             <groupId>net.kyori</groupId>
             <artifactId>adventure-text-serializer-legacy</artifactId>
-            <version>4.21.0</version>
+            <version>4.25.0</version>
             <scope>compile</scope>
             <optional>true</optional>
             <exclusions>
@@ -164,7 +164,7 @@
         <dependency>
             <groupId>net.kyori</groupId>
             <artifactId>adventure-text-minimessage</artifactId>
-            <version>4.21.0</version>
+            <version>4.25.0</version>
             <scope>compile</scope>
             <optional>true</optional>
             <exclusions>
@@ -181,7 +181,7 @@
         <dependency>
             <groupId>dev.kitteh</groupId>
             <artifactId>cardboardbox</artifactId>
-            <version>3.0.3</version>
+            <version>3.0.5</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
@@ -193,7 +193,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.21.5-R0.1-SNAPSHOT</version>
+            <version>1.21.9-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
